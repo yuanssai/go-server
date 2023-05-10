@@ -3,8 +3,8 @@ module github.com/yuanssai/go-server
 go 1.20
 
 require (
-	buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go v1.7.0-20230509155911-e50ef6c9635f.1
-	buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go v1.30.0-20230509155911-e50ef6c9635f.1
+	buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go v1.7.0-20230510094527-5c47318b2079.1
+	buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go v1.30.0-20230510094527-5c47318b2079.1
 	github.com/bufbuild/connect-go v1.7.0
 	golang.org/x/net v0.5.0
 )

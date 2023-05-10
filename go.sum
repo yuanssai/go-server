@@ -1,7 +1,7 @@
-buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go v1.7.0-20230509155911-e50ef6c9635f.1 h1:QnFwhW0RilPEbNNfrDELWYgVg2FjREHsxvSAozIe4bo=
-buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go v1.7.0-20230509155911-e50ef6c9635f.1/go.mod h1:6HLMcWmohtKr28sFt1PGQOi5vtmUoJq3IVyCL1xEr08=
-buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go v1.30.0-20230509155911-e50ef6c9635f.1 h1:ZMWDG3x2F3wgBR/yz3w52l3MOENhvZz0vP9MsOQgCiI=
-buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go v1.30.0-20230509155911-e50ef6c9635f.1/go.mod h1:kvjga6fVfx5igWlwJnwhg4buJb6nDSnKp9UZN/ShDAM=
+buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go v1.7.0-20230510094527-5c47318b2079.1 h1:5wQyPYpnXdp+PWiFFS9ZjbhWxLCjDRljI5p+ctLwJNA=
+buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go v1.7.0-20230510094527-5c47318b2079.1/go.mod h1:yJUHwy/kwvZEYBm0+GaYGQH2uza57g+nKLVb3k2CV0Q=
+buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go v1.30.0-20230510094527-5c47318b2079.1 h1:azGvG6Xb0qj9jXlANZ1dnRfn7/b9j0JWkj/8QPFeRkc=
+buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go v1.30.0-20230510094527-5c47318b2079.1/go.mod h1:kvjga6fVfx5igWlwJnwhg4buJb6nDSnKp9UZN/ShDAM=
 github.com/bufbuild/connect-go v1.7.0 h1:MGp82v7SCza+3RhsVhV7aMikwxvI3ZfD72YiGt8FYJo=
 github.com/bufbuild/connect-go v1.7.0/go.mod h1:GmMJYR6orFqD0Y6ZgX8pwQ8j9baizDrIQMm1/a6LnHk=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
