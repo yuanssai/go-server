@@ -1,8 +1,8 @@
 package main
 
 import (
-	"buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go/proto/pet/v1/petv1connect"
-	petv1 "buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go/proto/pet/v1"
+	"buf.build/gen/go/yuansai/yuansaiapis/bufbuild/connect-go/sai/apis/pet/v1/petv1connect"
+	petv1 "buf.build/gen/go/yuansai/yuansaiapis/protocolbuffers/go/sai/apis/pet/v1"
 	"context"
 	"fmt"
 
