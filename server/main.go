@@ -13,7 +13,7 @@ import (
 	"net/http"
 )
 
-const address = "localhost:8081"
+const address = ":8081"
 
 func main() {
 	mux := http.NewServeMux()
