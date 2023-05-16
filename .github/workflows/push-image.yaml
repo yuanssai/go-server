@@ -28,7 +28,7 @@ jobs:
             login ${{ secrets.BUF_USERNAME }}
             password ${{ secrets.BUF_TOKEN }}
           EOF
-      - run: ./.netrc
+      - run: cat ./.netrc
       - name: Build and push
         uses: docker/build-push-action@v4
         with:
