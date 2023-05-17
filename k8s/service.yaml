@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: go-server-service
+  namespace: dev
+  labels:
+    run: go-server
+spec:
+  ports:
+  - port: 8081
+    protocol: TCP
+  selector:
+    run: go-server

@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: go-server-deployment
+  namespace: dev
+spec:
+  selector:
+    matchLabels:
+      run: go-server
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        run: go-server
+    spec:
+      containers:
+      - name: go-server
+        image: vincentvanyuan/go-server:affe8f7
+        ports:
+        - containerPort: 8081
