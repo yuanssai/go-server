@@ -1,0 +1,8 @@
+apiVersion: skaffold/v4beta4
+kind: Config
+metadata:
+  name: go-server
+manifests:
+  rawYaml:
+    - k8s/server.yaml
+    - k8s/service.yaml
